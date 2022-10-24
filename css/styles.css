@@ -124,7 +124,8 @@ li{
     font-size: 12px;
     line-height: 15px;
     color: #A8A8A8;
-    margin-top: 12px;
+    margin-top: 8px;
+    margin-bottom: 20px;
 }
 
 .universidad{
@@ -134,8 +135,8 @@ li{
     line-height: 20px;
     color: #FB6D3A;
     padding: 0;
-    margin-top: 12px;
-    margin-bottom: 11px;
+    margin-top: 15px;
+    margin-bottom: 5px;
 }
 
 .carrera{
@@ -144,8 +145,11 @@ li{
     font-size: 14px;
     line-height: 17px;
     color: #000000;
-    margin-top: 11px;
-    margin-bottom: 12px;
+    margin-top: 5px;
+    margin-bottom: 8px;
+}
+.texto-negro{
+    color: #000000;
 }
 
 /***** Informacion Secundaria *****/
