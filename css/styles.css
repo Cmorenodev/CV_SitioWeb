@@ -166,11 +166,11 @@ li{
     margin-bottom: 8px;
 }
 
-.contactos, .habilidades-tecnicas, .habilidades-blandas{
+.contactos, .habilidades-tecnicas, .habilidades-blandas, .idiomas{
     margin-left: 40px;
 }
 
-/* Seccion contacto */
+/***** Seccion contacto *****/
 
 .tipo-contacto{
     color: white;
@@ -181,13 +181,26 @@ li{
     margin-right: 5px;
 }
 
+.contactos-item{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 5px;
+   
+
+}
+.logo-contacto{
+    margin-right: 10px;
+
+}
+
 .contacto-info{
     color: white;
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
     line-height: 24px;
-    opacity: 0.5;
+    opacity: 0.5;    
 }
 
 /* seccion lista */
